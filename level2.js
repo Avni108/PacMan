@@ -1,0 +1,44 @@
+function Level2(){
+    lock1.visible = false;
+    lock2.visible = false;
+    blinky.visible = false;
+    inky.visible = false;
+    clyde.visible = false;
+    pinky.visible = false;
+    PacMan.visible = false;
+    level1.visible = false;
+    level2.visible = false;
+    level3.visible = false;
+    brick1.visible = false;
+    brick2.visible = false;
+    brick3.visible = false;
+    brick4.visible = false;
+    brick5.visible = false;
+    brick6.visible = false;
+    brick7.visible = false;
+    brick8.visible = false;
+    brick9.visible = false;
+    brick10.visible = false;
+    brick11.visible = false;
+    brick12.visible = false;
+    brick13.visible = false;
+    brick14.visible = false;
+    brick15.visible = false;
+    brick16.visible = false;
+    brick17.visible = false;
+    brick18.visible = false;
+    brick19.visible = false;
+    brick20.visible = false;
+    brick21.visible = false;
+    brick22.visible = false;
+    brick23.visible = false;
+    brick24.visible = false;
+    brick25.visible = false;
+    brick26.visible = false;
+    brick27.visible = false;
+
+     blinky.setSpeedAndDirection(2,changeDirection());
+    inky.setSpeedAndDirection(2,changeDirection());
+     clyde.setSpeedAndDirection(2,changeDirection());
+     pinky.setSpeedAndDirection(2,changeDirection()); 
+}

@@ -1,0 +1,56 @@
+function Level1() {
+    Boxdestroy();
+    beginningSound.play();
+    lock1.visible = false;
+    lock2.visible = false;
+    blinky.visible = true;
+    inky.visible = true;
+    clyde.visible = true;
+    pinky.visible = true;
+    PacMan.visible = true;
+    level1.visible = false;
+    level2.visible = false;
+    level3.visible = false;
+    brick1.visible = true;
+    brick2.visible = true;
+    brick3.visible = true;
+    brick4.visible = true;
+    brick5.visible = true;
+    brick6.visible = true;
+    brick7.visible = true;
+    brick8.visible = true;
+    brick9.visible = true;
+    brick10.visible = true;
+    brick11.visible = true;
+    brick12.visible = true;
+    brick13.visible = true;
+    brick14.visible = true;
+    brick15.visible = true;
+    brick16.visible = true;
+    brick17.visible = true;
+    brick18.visible = true;
+    brick19.visible = true;
+    brick20.visible = true;
+    brick21.visible = true;
+    brick22.visible = true;
+    brick23.visible = true;
+    brick24.visible = true;
+    brick25.visible = true;
+    brick26.visible = true;
+    brick27.visible = true;  
+    // booster1.visible = true; 
+    // booster2.visible = true;
+    // booster3.visible = true; 
+    // booster4.visible = true; 
+    heart1.visible = true; 
+    heart2.visible = true;
+    heart3.visible = true;
+    heart4.visible = true;
+    heart5.visible = true;
+    
+    // blinky.setSpeedAndDirection(2,changeDirection());
+    // inky.setSpeedAndDirection(2,changeDirection());
+    // clyde.setSpeedAndDirection(2,changeDirection());
+    // pinky.setSpeedAndDirection(2,changeDirection());
+    
+    }
